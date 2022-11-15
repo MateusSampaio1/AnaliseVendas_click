@@ -21,6 +21,6 @@ Sobre os lucros anuais, é plausível admitir que existe uma tendência de cresc
 
 A categoria que,em média, recebe mais descontos em seus produtos é a de móveis, porém, a diferença entre elas é razoavelmente pequena. 
 
-O dataset, as tabelas e o relatório de vendas podem ser encontrados em [Análise_vendas_click]().
+O dataset, as tabelas e o relatório de vendas podem ser encontrados em [Análise_vendas_click](https://github.com/MateusSampaio1/AnaliseVendas_click/blob/main/An%C3%A1lise_Vendas_click.xlsx).
 
 Obs:. O conjunto de dados original pode ser encontrado no [Kaggle](https://www.kaggle.com/datasets/juhi1994/superstore).
